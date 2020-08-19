@@ -1,0 +1,15 @@
+{
+  "name": "html-img-loader",
+  "version": "0.0.1",
+  "description": "一个处理html中图片的loader,fork https://github.com/wzsxyz/html-withimg-loader",
+  "main": "src/bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "Zhjoker",
+  "license": "MIT"
+}
