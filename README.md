@@ -1,4 +1,5 @@
 # html-img-loader
+
 ![](https://img.shields.io/npm/dw/img-html-loader)
 ![](https://img.shields.io/npm/l/img-html-loader)
 
