@@ -1,4 +1,7 @@
 # html-img-loader
+![](https://img.shields.io/npm/dw/img-html-loader)
+![](https://img.shields.io/npm/l/img-html-loader)
+
 ## 引用
 `npm i img-html-loader`
 

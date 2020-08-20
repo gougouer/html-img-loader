@@ -1,6 +1,6 @@
 {
   "name": "img-html-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个处理html中图片的loader,fork https://github.com/wzsxyz/html-withimg-loader",
   "main": "src/bin.js",
   "scripts": {
